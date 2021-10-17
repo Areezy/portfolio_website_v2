@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        Hello, My name is Olamilekan Aremu and I am a Full-Stack Software Engineer. I am interested in Web Technologies and Creating Software for the web.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>

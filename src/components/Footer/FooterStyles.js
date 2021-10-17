@@ -47,6 +47,7 @@ export const SocialIconsContainer = styled.div`
 max-width: 1040px;
 display: flex;
 justify-content: space-between;
+align-items: center;
 
 @media ${props => props.theme.breakpoints.md}{
   display: flex;
@@ -87,7 +88,6 @@ export const Slogan = styled.p`
 	letter-spacing: 0.02em;
 	font-size: 18px;
 	line-height: 30px;
-	padding: 1rem;
 
 	@media ${props => props.theme.breakpoints.md}{
 		font-size: 16px;
