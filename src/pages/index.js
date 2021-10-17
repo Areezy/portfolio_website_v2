@@ -16,11 +16,11 @@ const Home = () => {
   return (
     <Layout>
       <Head>
-        <title>Olamilekan Aremu</title>
+        <title>Olamilekan Aremu's Portfolio</title>
         <link rel="shortcut icon" href="/favicon.png" />
         <meta
           name="description"
-          content="Olamilekan Aremu's Personal Website"
+          content="Olamilekan Aremu's Portfolio Website"
         />
 
         <meta name="keywords" content="Software Developer, Olamilekan Aremu" />
