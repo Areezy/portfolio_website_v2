@@ -11,7 +11,7 @@ export const projects = [
   {
     title: "Weather App",
     description:
-      "A full stack weather application built in React, Express and leverging the OpenWeatherMap API",
+      "A full stack weather application built in React, Express and leverging the OpenWeatherMap API.",
     image: "/images/2.png",
     tags: ["React", "Express", "CSS Modules"],
     source: "https://github.com/Areezy/weather_app",
@@ -21,7 +21,7 @@ export const projects = [
   {
     title: "Chrome State App",
     description:
-      "This is a Chrome extension created to replace traditional bookmarks. It saves all active tabs in the Chrome window into an executable batch script which can then be used to retrieve the previous state of the window",
+      "This is a Chrome extension created to replace traditional bookmarks. It saves all active tabs in the Chrome window into an executable batch script which can then be used to retrieve the previous state of the window.",
     image: "/images/3.png",
     tags: ["JavaScript", "HTML", "CSS"],
     source: "https://github.com/Areezy/chrome-state-app",
@@ -44,6 +44,6 @@ export const projects = [
 export const TimeLineData = [
   { year: 2018, text: 'Started my journey', },
   { year: 2019, text: 'Dabbled in Web Technologies', },
-  { year: 2020, text: 'Interned at NDB Europe Ltd.', },
+  { year: 2020, text: 'Interned at NDB Europe Ltd', },
   { year: 2021, text: 'Interned at Thousand Eyes on Me', },
 ];
