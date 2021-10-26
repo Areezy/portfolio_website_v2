@@ -10,14 +10,14 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
-            aremuv3@gmail.com
+          <LinkItem href="mailto:aremulekan@gmail.com">
+            aremulekan@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Building Accessible and Scalable Technologies</Slogan>
+          <Slogan>Building Great User Experiences</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/Areezy">

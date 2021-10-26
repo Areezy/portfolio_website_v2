@@ -1,22 +1,23 @@
 export const projects = [
   {
-    title: "WindBnB",
-    description: "An airbnb clone made in React and styled with Tailwind CSS.",
-    image: "/images/1.png",
-    tags: ["React", "Tailwind CSS"],
-    source: "https://github.com/Areezy/windbnb",
-    visit: "https://windbnb-areezy.vercel.app/",
+    title: "Clip&Ship",
+    description:
+      "This is a Web Application built in Express and Pug which facilitates the transfer of plain text documents across various devices. Documents are kept for as long as specified by the user.",
+    image: "/images/4.png",
+    tags: ["Express", "Pug", "MongoDB"],
+    source: "https://github.com/Areezy/clipandship",
+    visit: "https://clipandship.herokuapp.com",
     id: 0,
   },
   {
-    title: "Weather App",
+    title: "Hey, What is The Weather ?",
     description:
-      "A full stack weather application built in React, Express and leverging the OpenWeatherMap API.",
+      "A full stack single page application built in React, Express and leverging the OpenWeatherMap API to provide climate information.",
     image: "/images/2.png",
     tags: ["React", "Express", "CSS Modules"],
     source: "https://github.com/Areezy/weather_app",
     visit: "https://weather-app-areezy.vercel.app/",
-    id: 1,
+    id: 2,
   },
   {
     title: "Chrome State App",
@@ -27,17 +28,16 @@ export const projects = [
     source: "https://github.com/Areezy/chrome-state-app",
     visit:
       "https://chrome.google.com/webstore/detail/chrome-state-app-save-all/ooemigfmcnmokocfhepgnpckekhnjabi",
-    id: 2,
+    id: 3,
   },
   {
-    title: "Clip&Ship",
-    description:
-      "This is a Web Application built in Express and Pug which facilitates the transfer of plain text documents across various devices. Documents are kept for as long as specified by the user.",
-    image: "/images/4.png",
-    tags: ["Express", "Pug", "MongoDB"],
-    source: "https://github.com/Areezy/clipandship",
-    visit: "https://clipandship.herokuapp.com",
-    id: 3,
+    title: "WindBnB",
+    description: "An airbnb clone made in React and styled with Tailwind CSS.",
+    image: "/images/1.png",
+    tags: ["React", "Tailwind CSS"],
+    source: "https://github.com/Areezy/windbnb",
+    visit: "https://windbnb-areezy.vercel.app/",
+    id: 1,
   },
 ];
 
